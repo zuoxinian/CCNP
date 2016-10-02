@@ -1,1 +1,2 @@
 # CCNP
+Chinese Color-Nest Project (CCNP) is a ten-year project funded by the National Key Basic Research and Development (973) Program (2015CB351702), the Major Joint Fund for International Cooperation and Exchange of the Natural Science Foundation of China (81220108014), the Key Research Program (KSZD-EW-TZ-002) of the Chinese Academy of Sciences and the Brain Cognition and Medicine Program of the Beijing Municipal Science & Technology Commission (Z161100002616023). It aims at establishing the Chinese normative brain development trajectories across the human lifespan.
