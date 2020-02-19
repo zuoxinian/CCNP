@@ -4,4 +4,4 @@ Chinese Color-Nest Project (CCNP) is a twenty-year project and its pilot stage (
 # CCNP - Twins
 This is the second ten-year phase of the CCNP, which is designed for building the normative curves on brain development dervied from 6000 pairs of twins across the life span (6 -85 years).
 
-![CCNP Logo for Twins](sda)
+![CCNP Logo for Twins](https://github.com/zuoxinian/CCNP/blob/master/CTBP.jpg)
