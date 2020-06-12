@@ -8,6 +8,8 @@ The CCNP pilot comprises three connected components: stdCCNP, devCCNP and ageCCN
 
 1) The stdCCNP recruits total 240 adults (20-60 years) as participants, and each participant visits three ultra-high field (two 3T and one 7T) MRI scanners located at the CAS Institute of Psychology (GE) and the CAS Institute of Biophysics (Simens), generating 5 scans including two-week test-retest data at the two 3T scanners (see the illustration of its design in below). This component (2016 - 2017) serves resources for standardizing pipelines of data collection, storage and analyses based upon the test-retest reliability and reproducibility across scanners, which will be employed for other two components.
 
+![stdCCNP or called R3-BRAIN](https://github.com/zuoxinian/CCNP/blob/master/CTBP.jpg)
+
 2) The devCCNP (2017 - 2022), also called 'Growing Up in China', targets longitudinal data from 480 typically developing kids (see the illustration of its design in below). As a trial sample using the devCCNP design has been tested at Southwest University, which includes 3 waves of neuroimaging data from 192 developing children (6-18 years) across five years (2013 - 2017).
 
 3) The ageCCNP (2017 - 2022) collects a longitudinal dataset from 480 healthy old adults (see the illustration of its design in below). The age span of the ageCCNP is 60-84 years.
