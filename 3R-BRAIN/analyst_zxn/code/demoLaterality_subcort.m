@@ -11,7 +11,7 @@ addpath(genpath(ccs_matlab)) %ccs matlab scripts
 addpath(genpath(ccs_vistool)) %ccs matlab scripts
 
 %% read the data list: 3T
-fdata = [proj_dir, '/data/volbrain_replicability_3T.csv'];
+fdata = [proj_dir, '/data/volbrain_replicability_3T_3R-BRAIN.csv'];
 table_vol = readtable(fdata);
 %demographic info
 subid = table_vol.subid;
