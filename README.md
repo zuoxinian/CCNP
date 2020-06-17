@@ -6,7 +6,7 @@ CCNP takes its pilot stage (2013 - 2022) of the first ten-year (see a [preprint 
 
 The CCNP pilot comprises three connected components: stdCCNP, devCCNP and ageCCNP.
 
-1) The stdCCNP recruits total 240 adults (20-60 years) as participants, and each participant visits three ultra-high field (two 3T and one 7T) MRI scanners located at the CAS Institute of Psychology (GE) and the CAS Institute of Biophysics (Simens), generating 5 scans including two-week test-retest data at the two 3T scanners (see the illustration of its design in below). This component (2016 - 2017) serves resources for standardizing pipelines of data collection, storage and analyses based upon the test-retest reliability and reproducibility across scanners, which will be employed for other two components. This is also called 3R-BRAIN.
+1) The stdCCNP recruits total 240 adults (20-60 years) as participants, and each participant visits three ultra-high field (two 3T and one 7T) MRI scanners located at the CAS Institute of Psychology (GE) and the CAS Institute of Biophysics (Simens), generating 5 scans including two-week test-retest data at the two 3T scanners (see the illustration of its design in below). This component (2016 - 2017) serves resources for standardizing pipelines of data collection, storage and analyses based upon the test-retest reliability and reproducibility across scanners, which will be employed for other two components. This is also called 3R-BRAIN: [An open resource for reproducible, replicable and reliable brain research and imaging neuroscience](https://github.com/zuoxinian/CCNP/tree/master/3R-BRAIN).
 
 ![stdCCNP or called R3-BRAIN](https://github.com/zuoxinian/CCNP/blob/master/images/stdCCNP.001.png)
 
