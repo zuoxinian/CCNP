@@ -5,7 +5,7 @@ library("dplyr")
 library("effsize")
 library("pwr")
 #load 3T reliability results
-data_csv <- paste0(workdir,'data/','volbrain_replicability_7T.csv')
+data_csv <- paste0(workdir,'data/','volbrain_replicability_7T_3R-BRAIN.csv')
 data_df <- read.csv(data_csv)
 volbrain_ibp7t <- data_df %>% filter(scanner=='IBP_Magnetom')
 
