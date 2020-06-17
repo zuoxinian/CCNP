@@ -17,11 +17,11 @@ library("lmerTest")
 library("boot")
 
 #set path
-workdir <- '/Home/R3BRAIN/'      #Should change it to your path accordingly
+workdir <- '/Home/3R-BRAIN/'      #Should change it to your path accordingly
 setwd(workdir)
 
 #load data file
-fname <- paste0(workdir,'/data/','volbrain_reliability.csv')
+fname <- paste0(workdir,'/data/','volbrain_reliability_3R-BRAIN.csv')
 volbrain_df <- read.csv(fname,header = TRUE)
 
 #define bootstrap function to compute 3 different iccs
